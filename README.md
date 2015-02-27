@@ -4,9 +4,9 @@ file is needed to compare combination of characters with words existed
 in the dictionary.
 
 4 pics 1 word 手机游戏的简单解决方案。
-思路如下：
-**需求**：给定12个字母（可重复） ，求任意取 n 个字母(可重复)所能组成的单词，优化了n>6的算法。
-**注意**：需要字典文件dicts.txt
+思路如下：<br/>
+**需求**：给定12个字母（可重复） ，求任意取 n 个字母(可重复)所能组成的单词，优化了n>6的算法。<br/>
+**注意**：需要字典文件dicts.txt<br/>
 
 1. 求出任意取3个字母组合的字符串
 2. 任意取3个字母组合字符串去除重复
