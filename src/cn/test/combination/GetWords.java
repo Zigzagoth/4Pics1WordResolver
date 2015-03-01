@@ -17,7 +17,7 @@ public class GetWords {
      
 	public static void main(String[] args) throws Exception {  
 		  
-		getWords("nofggerezsfb6");
+		getWords("xapmntfgufum4");
  
 	}
 	private static void getWords(String str) throws Exception {
